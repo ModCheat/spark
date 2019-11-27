@@ -3,4 +3,4 @@ echo "done"
 cd temp
 bash install.sh
 cd
-rm -rf temp
+rm -rf spark/temp
