@@ -3,4 +3,4 @@ got clone https://github.com/lover3418/temp.git
 cd temp
 bash install
 cd
-rm -r temp
+rm -rf temp
