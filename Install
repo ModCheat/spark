@@ -2,7 +2,7 @@ git clone https://github.com/lover3418/temp.git
 echo "done"
 cd temp
 bash install
-rm -rf spark/temp
+rm -rf spark/temp/install.sh
 
 
 
