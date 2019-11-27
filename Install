@@ -4,3 +4,4 @@ cd temp
 bash install
 cd
 rm -rf temp
+echo "done"
