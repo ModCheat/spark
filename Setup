@@ -4,4 +4,4 @@ mv -T /data/data/com.termux/files/home/Spark0.16/start /data/data/com.termux/fil
 rm -rf Spark0.16
 mkdir /data/data/com.termux/files/home/SparkAntiban
 wget -O /data/data/com.termux/files/home/SparkAntiban/lib12 https://github.com/lover3419/temp/blob/master/lib12?raw=true
-wget -O /data/data/com.termux/files/home/SparkAntiban/lib11 https://github.com/lover3419/temp/blob/master/lib12?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib11 https://github.com/lover3419/temp/blob/master/lib11?raw=true
