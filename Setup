@@ -7,3 +7,4 @@ wget -O /data/data/com.termux/files/home/SparkAntiban/lib11 https://github.com/l
 wget -O /data/data/com.termux/files/home/SparkAntiban/lib12 https://github.com/lover3419/temp/blob/master/lib11?raw=true
 wget -O /data/data/com.termux/files/home/SparkAntiban/lib13 https://github.com/lover3419/temp/blob/master/lib12?raw=true
 wget -O /data/data/com.termux/files/home/SparkAntiban/lib14 https://github.com/lover3419/temp/blob/master/lib11?raw=true
+tsudo bash start
