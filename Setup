@@ -1,10 +1,16 @@
+rm -tf /data/data/com.termux/files/home/SparkAntiban
 pkg install busybox && pkg install wget && pkg install git && pkg install bash && pkg install tsu && pkg install dialog
 git clone https://github.com/lover3419/Spark0.16.git
 mv -T /data/data/com.termux/files/home/Spark0.16/start /data/data/com.termux/files/home/start
 rm -rf Spark0.16
 mkdir /data/data/com.termux/files/home/SparkAntiban
-wget -O /data/data/com.termux/files/home/SparkAntiban/lib11 https://github.com/lover3419/temp/blob/master/lib12?raw=true
-wget -O /data/data/com.termux/files/home/SparkAntiban/lib12 https://github.com/lover3419/temp/blob/master/lib11?raw=true
-wget -O /data/data/com.termux/files/home/SparkAntiban/lib13 https://github.com/lover3419/temp/blob/master/lib12?raw=true
-wget -O /data/data/com.termux/files/home/SparkAntiban/lib14 https://github.com/lover3419/temp/blob/master/lib11?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib11a https://github.com/lover3419/temp/blob/master/lib11a?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib11b https://github.com/lover3419/temp/blob/master/lib11b?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib11c https://github.com/lover3419/temp/blob/master/lib11c?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib11d https://github.com/lover3419/temp/blob/master/lib11d?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib11e https://github.com/lover3419/temp/blob/master/lib11e?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib12 https://github.com/lover3419/temp/blob/master/lib12?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib13 https://github.com/lover3419/temp/blob/master/lib13?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib14 https://github.com/lover3419/temp/blob/master/lib14?raw=true
+wget -O /data/data/com.termux/files/home/SparkAntiban/lib14 https://github.com/lover3419/temp/blob/master/lib15?raw=true
 tsudo bash start
